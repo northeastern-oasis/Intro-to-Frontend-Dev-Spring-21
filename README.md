@@ -1,14 +1,13 @@
-# Workshop 4: Intro Frontend Development
+# Oasis Spring Workshop 4: Intro to Frontend Development
 
 **Workshop External Resources**
 
-  *  **Youtube Recording**: [https://youtu.be/If-Ir0UGU_A](https://youtu.be/If-Ir0UGU_A)
-  *  **Slides**: [https://docs.google.com/presentation/d/1vjyrYvydJ1cE061qeL7tjAB85MeoePw2JYYMB9YfmEQ/edit?usp=sharing](https://docs.google.com/presentation/d/1vjyrYvydJ1cE061qeL7tjAB85MeoePw2JYYMB9YfmEQ/edit?usp=sharing)
+  *  **Slides**: [https://docs.google.com/presentation/d/110S-rgi2-yMpmkKxpBJwSXvg1qtzUAjvJflO5m-qKOA/edit?usp=sharing](https://docs.google.com/presentation/d/110S-rgi2-yMpmkKxpBJwSXvg1qtzUAjvJflO5m-qKOA/edit?usp=sharing)
   * **Oasis Starting Guide**: [https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/frontend-dev](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/frontend-dev)
 
 Congratulations on taking your NEXT step in the world of web development! Creating browser-based apps and experiences is an extremely rewarding process and one of the most popular ways to make software that many can easily access.
 
-The interactive portion of this workshop will focus on learning the basics of React, one of the most popular libraries available for creating responsive frontend applications. We will be making a classic—but essential—intro project: a to-do app.
+The interactive portion of this workshop will focus on learning the basics of React and why it is useful vs just using plain JavaScript/HTML. We use React because it is extremely popular and easy to get started with. It will help us make a classic—but essential—intro project: a to-do app.
 
 ## Homework (optional)
 
@@ -24,7 +23,7 @@ The interactive portion of this workshop will focus on learning the basics of Re
 4. Follow along with workshop
 5. Note: Make sure you **save often**!! Stackblitz has occasionally blanked out in the past. As long as you keep saving though, you'll be able to just refresh and pick up where you left off
 
-### Method 2 (ONLY IF YOU KNOW WHAT YOU'RE DOING)
+### Method 2 (if you know how to do this kinda thing)
 
 1. Clone the Workshop 4 Github repository into a new folder on your machine (in Terminal or Command Prompt, type `git clone REPO_URL`, where REPO_URL is the clone repository found on the top of this page). This repo does contain quite a bit of stuff, but we'll explain what everything does.
 2. Open the parent **folder** using your favorite [IDE](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/IDEs). This is important because we will be editing multiple files to build our app.
