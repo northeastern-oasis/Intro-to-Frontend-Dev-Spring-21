@@ -17,6 +17,14 @@ The interactive portion of this workshop will focus on learning the basics of Re
 
 ### Method 1 (RECOMMENDED)
 
+#### Vanilla JS:
+
+1. Open the following REPL.it link:
+[https://repl.it/join/ausztfwm-chessmyers](https://repl.it/join/ausztfwm-chessmyers)
+2. Follow along to make a TODO app with Vanilla JS
+
+#### React
+
 1. Open the following Stackblitz link: [https://stackblitz.com/edit/workshop-4-intro-react](https://stackblitz.com/edit/workshop-4-intro-react)
 2. Click **Fork** at top of window
 3. (optional, but recommended) Sign in using Github to save your code (make an account [here](https://github.com/join) if you don't have one)
