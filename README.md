@@ -20,8 +20,9 @@ The interactive portion of this workshop will focus on learning the basics of Re
 #### Vanilla JS (Part 1):
 
 1. Open the following REPL.it link:
-[https://repl.it/join/ausztfwm-chessmyers](https://repl.it/join/ausztfwm-chessmyers)
-2. Follow along to make a TODO app with Vanilla JS
+[https://repl.it/@chessmyers/VanillaTODO](https://repl.it/@chessmyers/VanillaTODO)
+2. Click **Fork** (the blue button) and sign in with your Github account
+3. Follow along to finish a TODO app made with plain JS/HTML/CSS
 
 #### React (Part 2):
 
@@ -40,12 +41,14 @@ The interactive portion of this workshop will focus on learning the basics of Re
 
 ## After the Workshop
 
-Well done finishing the workshop! You now have the necessary skills to create basic React components and render them in your app! In future workshops, we will be diving into more advanced concepts, such as making network requests from your frontend and rendering the result. Moving forward, we would recommend the follow steps to continue developing and learning:
+Well done finishing the workshop! You now have the necessary skills to create basic React components and render them in your app, but more importantly **why** React is so useful!
 
-  *   Read through the React docs, starting [here](https://reactjs.org/docs/hello-world.html). Now that you’ve gotten an introduction to the library learning more from it’s documentation will be much easier
-  *   Check out the Oasis Starting Guide section on frontend development [here](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/frontend-dev)
-  *   Check out [create-react-app](https://create-react-app.dev/docs/getting-started/) for an easy way to get started with making a full-fledged React app on your machine
+We would **highly** recommend doing the React tutorial on the official site. That is the best way to learn how to write real React code
+
+  *   Do the official React tutorial [here](https://reactjs.org/tutorial/tutorial.html)
+  *   After doing the tutorial, start reading through the React docs starting from [this page](https://reactjs.org/docs/hello-world.html)
+  *   To read more about frontend development in general and other popular frameworks, check out the Oasis Starting Guide section on frontend development [here](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/frontend-dev)
 
 ## If you couldn't make the workshop
 
-If you were not able to attend, don't worry! There are still many great ways to get started using React. The React official website has a good tutorial for [getting started](https://reactjs.org/). You can also read more about frontend development in the [Ultimate Oasis Starting Guide](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/frontend-dev). Good luck!
+If you were not able to attend, don't worry! There are many great ways on the web to get started using React for free. The resources linked above are an excellent place to start
